@@ -1,3 +1,6 @@
+//Sagar Luitel
+//Minesweeper game
+
 using System;
 namespace HelloWorld
 {
