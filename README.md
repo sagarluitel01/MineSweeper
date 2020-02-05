@@ -24,5 +24,5 @@ This is a single player Minesweeper game written in C#.
 
 -----------------------
 
-' * ' is bomb & numbers are sopt without bomb.
+' * ' represent bomb & numbers represent the sopts without bomb.
 Goal is to guess all the spot without bomb.
